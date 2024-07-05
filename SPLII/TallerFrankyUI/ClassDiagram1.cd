@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Parcial.WindowsForm.Barco">
+    <Position X="2" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEgBIAAAACCEAAAAgACBAAAAAAAAAAEQAAAAAAA=</HashCode>
+      <FileName>Barco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parcial.WindowsForm.Pirata">
+    <Position X="0.75" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAIAAAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Pirata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parcial.WindowsForm.Marina">
+    <Position X="3.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAIAAAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Marina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parcial.WindowsForm.AccesoDatos">
+    <Position X="5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAABAAAAAAQAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>AccesoDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parcial.WindowsForm.GenerarRandom">
+    <Position X="5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>GenerarRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parcial.WindowsForm.Taller">
+    <Position X="8" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Taller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parcial.WindowsForm.XmlManager">
+    <Position X="7.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>XmlManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Parcial.WindowsForm.IArchivos">
+    <Position X="7.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>IArchivos.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Parcial.WindowsForm.EOperacion">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAEAECAAEAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>EOperacion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Parcial.WindowsForm.ETipoBarco">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ETipoBarco.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

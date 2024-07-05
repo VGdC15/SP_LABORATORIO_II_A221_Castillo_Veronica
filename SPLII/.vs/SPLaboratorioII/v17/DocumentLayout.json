@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\ver\u00F3nica\\desktop\\sp-veronica castillo\\sp_laboratorio_ii_a221_castillo_ver-nica\\spl2_1c2024-main\\splii\\tallerfrankyui\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\eoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\eoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\pirata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\pirata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\marina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\marina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\etipobarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\etipobarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\iarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\iarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\generarrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\generarrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EOperacion.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\EOperacion.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\EOperacion.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\EOperacion.cs",
+              "RelativeToolTip": "TallerFrankyUI\\EOperacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:57:22.928Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\ClassDiagram1.cd",
+              "RelativeToolTip": "TallerFrankyUI\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-07-05T18:28:57.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Barco.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\Barco.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\Barco.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\Barco.cs",
+              "RelativeToolTip": "TallerFrankyUI\\Barco.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:27:43.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Marina.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\Marina.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\Marina.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\Marina.cs",
+              "RelativeToolTip": "TallerFrankyUI\\Marina.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:45:42.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pirata.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\Pirata.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\Pirata.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\Pirata.cs",
+              "RelativeToolTip": "TallerFrankyUI\\Pirata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:40:41.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\AccesoDatos.cs",
+              "RelativeToolTip": "TallerFrankyUI\\AccesoDatos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:47:55.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Taller.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\Taller.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\Taller.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\Taller.cs",
+              "RelativeToolTip": "TallerFrankyUI\\Taller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:05:31.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ETipoBarco.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\ETipoBarco.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\ETipoBarco.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\ETipoBarco.cs",
+              "RelativeToolTip": "TallerFrankyUI\\ETipoBarco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:23:35.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmBarco.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\FrmBarco.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmBarco.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\FrmBarco.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TallerFrankyUI\\FrmBarco.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:44:58.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XmlManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\XmlManager.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\XmlManager.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\XmlManager.cs",
+              "RelativeToolTip": "TallerFrankyUI\\XmlManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:31:24.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\IArchivos.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\IArchivos.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\IArchivos.cs",
+              "RelativeToolTip": "TallerFrankyUI\\IArchivos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:25:28.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TallerFrankyUI\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:22:29.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenerarRandom.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\GenerarRandom.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\GenerarRandom.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\GenerarRandom.cs",
+              "RelativeToolTip": "TallerFrankyUI\\GenerarRandom.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:02:24.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Ver\u00F3nica\\Desktop\\sp-veronica castillo\\SP_LABORATORIO_II_A221_Castillo_Ver-nica\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\FrmPrincipal.cs",
+              "RelativeToolTip": "TallerFrankyUI\\FrmPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:22:35.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
